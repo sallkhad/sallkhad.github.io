@@ -6,14 +6,14 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Khadidiatou Sall
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I am a Molecular and Cellular Biology PhD candidate at Oregon State University. My research focuses on the mechanisms of Abscisic Acid (ABA) metabolism and signal transduction in Arabidopsis thaliana seeds. Previously, I’ve worked on the oxidative stress in Saccharomyces cerevisiae and on germination/dormancy regulation during oxidative stress in Arabidopsis thaliana. In addition to my research, I have been teaching since my freshman year of college. I taught science to various audiences ranging from children, youth to adults. Currently, I am teaching molecular biology techniques to lab trainees. I am also the founder of an organization that promotes STEM education in Senegal. I am interested in becoming a researcher and educator in the biotechnology fields."
+  email: sallkhad@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
+  twitter: @KhadidiatouSALL
+  linkedin: https://www.linkedin.com/in/khadidiatou-sall/
+  github: https://github.com/sallkhad/
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
